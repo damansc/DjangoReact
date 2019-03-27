@@ -1,4 +1,4 @@
-# JSP
+# DjangoReact
 JavaScript Python
 
-__init__
+Starting initial project for creating a web application that utilizes React for the front and and Django for the back-end in visualizing and modeling data interactively via python scripts.
